@@ -20,6 +20,7 @@ public class FilenameDemo {
 		System.out.println("Filename = " + myHomePage.filename());
 		System.out.println("Path = " + myHomePage.path());
 		System.out.println("make some changes to commit to git");
+		System.out.println("2nd commit");
 	}
 
 }
