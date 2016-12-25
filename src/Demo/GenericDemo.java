@@ -45,8 +45,8 @@ public class GenericDemo {
 		//integerBox.inspect("some text"); //error : this is still String
 		integerBox.inspect(3.1315926d);	
 		
-		NaturalNumber<Integer> num = demo.new NaturalNumber<Integer>(34);
-		System.out.printf("is %s even? %s ",num.get(), num.isEven());
+		NaturalNumber<Integer> num = demo.new NaturalNumber(34);
+		System.out.printf("is %s even? %s! ",num.get(), num.isEven());
 		
 	}
 }

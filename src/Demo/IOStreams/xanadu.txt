@@ -1,0 +1,4 @@
+This is a text file for java I/O class to read.
+This file includes 4 lines.
+This is the 3rd line.
+Last line of the file.
