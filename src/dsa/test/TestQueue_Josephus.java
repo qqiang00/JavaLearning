@@ -23,7 +23,7 @@ public class TestQueue_Josephus{
 	
 	//将一组对象组织为一个队列
 	public static Queue buildQueue(Object a[]){
-		Queue q = new Queue_Array();
+		Queue q = new Queue_List();
 		for (int i = 0; i < a.length; i++){
 			q.enqueue(a[i]);
 		}
