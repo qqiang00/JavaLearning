@@ -1,4 +1,5 @@
-//package Demo.IOStreams;
+package Demo.IOStreams;
+// if run in a console, please comment the package line
 
 import java.io.Console;
 import java.util.Arrays;

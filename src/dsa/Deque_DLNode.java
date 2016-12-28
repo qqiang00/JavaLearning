@@ -64,7 +64,7 @@ public class Deque_DLNode implements Deque{
 	//删除首节点
 	public Object removeFirst() throws QueueEmptyException{
 		if (isEmpty()){
-			throw new QueueEmptyException(DSAExceptionMsg.EmptyQueue)
+			throw new QueueEmptyException(DSAExceptionMsg.EmptyQueue);
 		}
 		DLNode first = header.getNext();
 		DLNode second = first.getNext();
