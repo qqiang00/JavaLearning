@@ -1,4 +1,6 @@
-# See the Assessment Guide for information on how to interpret this report.
+# GraderOutput
+
+See the Assessment Guide for information on how to interpret this report.
 
 Assessment Summary
 
